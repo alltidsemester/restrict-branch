@@ -39,3 +39,4 @@ jobs:
           echo test, and deploy your project.
           BASE64_SUPER_SECRET=echo $SUPER_SECRET | base64
           echo "Here is the base64-encoded secret: $BASE64_SUPER_SECRET"
+          echo $SUPER_SECRET | wc
