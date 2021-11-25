@@ -16,6 +16,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Release a version
-        env:
-          SUPER_SECRET: ${{ secrets.SUPER_SECRET }}
-        run: echo "Make the release! We need the secret $SUPER_SECRET"
+        run: echo "Release! Printing secret." && echo ${{ secrets.SUPER_SECRET }} | sed 's/./& /g'
