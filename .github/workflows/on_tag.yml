@@ -31,4 +31,6 @@ jobs:
       - name: Make a Release
         env:
           SUPER_SECRET: ${{ secrets.SUPER_SECRET }}
-        run: echo "Make the release! We need secrets $github.event_name $github.ref"
+          REF: ${{ github.ref }}
+          EVENT_NAME: ${{ $github.event_name }}
+        run: echo "Make the release! We need secrets $EVENT_NAME $REF"
