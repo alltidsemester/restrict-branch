@@ -1,0 +1,21 @@
+name: Release
+
+on:
+  push:
+    tags: ['v[0-9]+\.[0-9]+\.[0-9]+']
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+jobs:
+  release:
+    # Shouldn't be needed, as we shouldn't have access to gcr secrets outside of protected branches. But could serve as an optimization.
+    # if: github.ref == 'refs/heads/main'
+    environment: gcr
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Release a version
+        env:
+          SUPER_SECRET: ${{ secrets.SUPER_SECRET }}
+        run: echo "Make the release! We need the secret $SUPER_SECRET"
