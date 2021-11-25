@@ -30,4 +30,4 @@ jobs:
       - name: Make a Release
         env:
           SUPER_SECRET: ${{ secrets.SUPER_SECRET }}
-        run: echo "Make the release!"
+        run: echo "Make the release! We need secrets"
