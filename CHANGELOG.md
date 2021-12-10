@@ -1,3 +1,17 @@
+# [12.0.0](https://github.com/alltidsemester/restrict-branch/compare/v11.5.0...v12.0.0) (2021-12-10)
+
+
+### Features
+
+* **CMP-123:** dsds ([9a60403](https://github.com/alltidsemester/restrict-branch/commit/9a60403c2581843d265189938790ec3f314ea63e))
+
+
+### BREAKING CHANGES
+
+* **CMP-123:** 
+
+
+
 # [11.5.0](https://github.com/alltidsemester/restrict-branch/compare/v11.4.0...v11.5.0) (2021-12-10)
 
 
@@ -31,15 +45,6 @@
 ### Bug Fixes
 
 * **CMP-2:** fixing things ([3a3d278](https://github.com/alltidsemester/restrict-branch/commit/3a3d2780f3dc756bd7a5b488fff580c15dddcf25))
-
-
-
-# [11.3.0](https://github.com/alltidsemester/restrict-branch/compare/v11.2.1...v11.3.0) (2021-12-10)
-
-
-### Features
-
-* **CMP-1338:** this is a feature ([fb4d27b](https://github.com/alltidsemester/restrict-branch/commit/fb4d27bbe83351f073c0f079eeff09ed1289d3e4))
 
 
 
