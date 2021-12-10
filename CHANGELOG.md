@@ -1,3 +1,7 @@
+## [11.0.1](https://github.com/alltidsemester/restrict-branch/compare/v11.0.0...v11.0.1) (2021-12-10)
+
+
+
 # [11.0.0](https://github.com/alltidsemester/restrict-branch/compare/v4.0.0...v11.0.0) (2021-12-10)
 
 
