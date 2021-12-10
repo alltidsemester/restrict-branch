@@ -1,3 +1,12 @@
+## [13.0.1](https://github.com/alltidsemester/restrict-branch/compare/v13.0.0...v13.0.1) (2021-12-10)
+
+
+### Bug Fixes
+
+* fixing ([09fe0d3](https://github.com/alltidsemester/restrict-branch/commit/09fe0d3c4eb06ff7b9b590cbe41ae30e0c53fea9))
+
+
+
 # [13.0.0](https://github.com/alltidsemester/restrict-branch/compare/v12.0.0...v13.0.0) (2021-12-10)
 
 
@@ -47,10 +56,6 @@
 ### Features
 
 * **CMP-3232:** Trigger a minor ([1fb131d](https://github.com/alltidsemester/restrict-branch/commit/1fb131dad517e1915c632b8e626e59470a294f0a))
-
-
-
-## [11.3.2](https://github.com/alltidsemester/restrict-branch/compare/v11.3.1...v11.3.2) (2021-12-10)
 
 
 
