@@ -1,3 +1,12 @@
+## [100.0.1](https://github.com/alltidsemester/restrict-branch/compare/v14.0.0...v100.0.1) (2021-12-10)
+
+
+### Bug Fixes
+
+* test ([d3636fa](https://github.com/alltidsemester/restrict-branch/commit/d3636fafa5629d2ea309e845c926135bd5b3bc14))
+
+
+
 # [14.0.0](https://github.com/alltidsemester/restrict-branch/compare/v13.0.1...v14.0.0) (2021-12-10)
 
 
@@ -48,15 +57,6 @@
 ### BREAKING CHANGES
 
 * **CMP-123:** 
-
-
-
-# [11.5.0](https://github.com/alltidsemester/restrict-branch/compare/v11.4.0...v11.5.0) (2021-12-10)
-
-
-### Features
-
-* **CMP-123:** Hello ([d0228ce](https://github.com/alltidsemester/restrict-branch/commit/d0228ce3f1acb362191647bc37dba96f9e8cf614))
 
 
 
