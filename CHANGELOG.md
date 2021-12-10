@@ -1,3 +1,17 @@
+# [11.4.0](https://github.com/alltidsemester/restrict-branch/compare/v11.3.2...v11.4.0) (2021-12-10)
+
+
+### Bug Fixes
+
+* **CMP-123:** Trigger a patch ([9bb2e01](https://github.com/alltidsemester/restrict-branch/commit/9bb2e01708eb3ce4516778e8a7c5bc4b8ed67a35))
+
+
+### Features
+
+* **CMP-3232:** Trigger a minor ([1fb131d](https://github.com/alltidsemester/restrict-branch/commit/1fb131dad517e1915c632b8e626e59470a294f0a))
+
+
+
 ## [11.3.2](https://github.com/alltidsemester/restrict-branch/compare/v11.3.1...v11.3.2) (2021-12-10)
 
 
@@ -21,20 +35,6 @@
 
 
 ## [11.2.1](https://github.com/alltidsemester/restrict-branch/compare/v11.2.0...v11.2.1) (2021-12-10)
-
-
-
-# [11.2.0](https://github.com/alltidsemester/restrict-branch/compare/v11.1.0...v11.2.0) (2021-12-10)
-
-
-### Bug Fixes
-
-* **CMP-1337:** Doing things ([5ea75ba](https://github.com/alltidsemester/restrict-branch/commit/5ea75ba8e7ecd3fc042e99f67003299186ab6797))
-
-
-### Features
-
-* **CMP-1:** LOL ([65cd3eb](https://github.com/alltidsemester/restrict-branch/commit/65cd3eb8be60fa61a8b1a46f9e2e1a53e60a1844))
 
 
 
