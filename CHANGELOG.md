@@ -1,3 +1,12 @@
+# [11.3.0](https://github.com/alltidsemester/restrict-branch/compare/v11.2.1...v11.3.0) (2021-12-10)
+
+
+### Features
+
+* **CMP-1338:** this is a feature ([fb4d27b](https://github.com/alltidsemester/restrict-branch/commit/fb4d27bbe83351f073c0f079eeff09ed1289d3e4))
+
+
+
 ## [11.2.1](https://github.com/alltidsemester/restrict-branch/compare/v11.2.0...v11.2.1) (2021-12-10)
 
 
@@ -26,10 +35,6 @@
 
 
 ## [11.0.4](https://github.com/alltidsemester/restrict-branch/compare/v11.0.3...v11.0.4) (2021-12-10)
-
-
-
-## [11.0.3](https://github.com/alltidsemester/restrict-branch/compare/v11.0.2...v11.0.3) (2021-12-10)
 
 
 
