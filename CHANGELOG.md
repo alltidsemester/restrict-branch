@@ -1,3 +1,7 @@
+## [11.0.3](https://github.com/alltidsemester/restrict-branch/compare/v11.0.2...v11.0.3) (2021-12-10)
+
+
+
 ## [11.0.2](https://github.com/alltidsemester/restrict-branch/compare/v11.0.1...v11.0.2) (2021-12-10)
 
 
@@ -27,10 +31,6 @@
 ### BREAKING CHANGES
 
 * lol
-
-
-
-# 1.0.0 (2021-11-25)
 
 
 
