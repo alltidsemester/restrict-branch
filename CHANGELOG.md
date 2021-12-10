@@ -1,3 +1,18 @@
+# [13.0.0](https://github.com/alltidsemester/restrict-branch/compare/v12.0.0...v13.0.0) (2021-12-10)
+
+
+### Features
+
+* major ([b6e6a25](https://github.com/alltidsemester/restrict-branch/commit/b6e6a250250579e4465f92afd7dcd03d7deee55c))
+* minor ([f1e886f](https://github.com/alltidsemester/restrict-branch/commit/f1e886f71bc6aeee83c0a111ddefbc185ce6292b))
+
+
+### BREAKING CHANGES
+
+* Broke it
+
+
+
 # [12.0.0](https://github.com/alltidsemester/restrict-branch/compare/v11.5.0...v12.0.0) (2021-12-10)
 
 
@@ -36,15 +51,6 @@
 
 
 ## [11.3.2](https://github.com/alltidsemester/restrict-branch/compare/v11.3.1...v11.3.2) (2021-12-10)
-
-
-
-## [11.3.1](https://github.com/alltidsemester/restrict-branch/compare/v11.3.0...v11.3.1) (2021-12-10)
-
-
-### Bug Fixes
-
-* **CMP-2:** fixing things ([3a3d278](https://github.com/alltidsemester/restrict-branch/commit/3a3d2780f3dc756bd7a5b488fff580c15dddcf25))
 
 
 
