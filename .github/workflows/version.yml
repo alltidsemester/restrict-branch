@@ -17,4 +17,4 @@ jobs:
     - name: Bump version and push tag
       uses: TriPSs/conventional-changelog-action@v3
       with:
-        github-token: ${{ github.token }}
+        github-token: ${{ secrets.ALLTIDSEMESTER_TOKEN }}
