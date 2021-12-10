@@ -1,5 +1,5 @@
 {
   "name": "my-program",
-  "version": "13.0.1",
+  "version": "14.0.0",
   "bin": "./path/to/program"
 }
