@@ -1,3 +1,12 @@
+## [11.3.1](https://github.com/alltidsemester/restrict-branch/compare/v11.3.0...v11.3.1) (2021-12-10)
+
+
+### Bug Fixes
+
+* **CMP-2:** fixing things ([3a3d278](https://github.com/alltidsemester/restrict-branch/commit/3a3d2780f3dc756bd7a5b488fff580c15dddcf25))
+
+
+
 # [11.3.0](https://github.com/alltidsemester/restrict-branch/compare/v11.2.1...v11.3.0) (2021-12-10)
 
 
@@ -31,10 +40,6 @@
 ### Features
 
 * testtest ([6a783ce](https://github.com/alltidsemester/restrict-branch/commit/6a783ce21640bbd67daf816088f17d0ea49885b9))
-
-
-
-## [11.0.4](https://github.com/alltidsemester/restrict-branch/compare/v11.0.3...v11.0.4) (2021-12-10)
 
 
 
