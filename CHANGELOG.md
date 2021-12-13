@@ -1,3 +1,17 @@
+# [101.0.0](https://github.com/alltidsemester/restrict-branch/compare/v100.0.1...v101.0.0) (2021-12-13)
+
+
+### Bug Fixes
+
+* **CMP-1337:** I made a fix ([18deda6](https://github.com/alltidsemester/restrict-branch/commit/18deda68342faed8513d1ad007fded4114fdba72))
+
+
+### BREAKING CHANGES
+
+* **CMP-1337:** Ops I did it again!
+
+
+
 ## [100.0.1](https://github.com/alltidsemester/restrict-branch/compare/v14.0.0...v100.0.1) (2021-12-10)
 
 
@@ -43,20 +57,6 @@
 ### BREAKING CHANGES
 
 * Broke it
-
-
-
-# [12.0.0](https://github.com/alltidsemester/restrict-branch/compare/v11.5.0...v12.0.0) (2021-12-10)
-
-
-### Features
-
-* **CMP-123:** dsds ([9a60403](https://github.com/alltidsemester/restrict-branch/commit/9a60403c2581843d265189938790ec3f314ea63e))
-
-
-### BREAKING CHANGES
-
-* **CMP-123:** 
 
 
 
