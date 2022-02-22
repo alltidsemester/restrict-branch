@@ -6,8 +6,6 @@ on:
 
 jobs:
   build:
-    environment:
-      name: gcr
     runs-on: ubuntu-latest
 
     steps:
