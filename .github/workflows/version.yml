@@ -8,8 +8,8 @@ on:
       - 'CHANGELOG.md'
 jobs:
   build:
-    environment:
-      name: gcr
+#    environment:
+#      name: gcr
     runs-on: ubuntu-latest
 
     steps:
