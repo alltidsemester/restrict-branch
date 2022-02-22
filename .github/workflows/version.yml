@@ -16,12 +16,11 @@ jobs:
     - uses: actions/checkout@v2
       with:
         token: ${{ github.token }}
-    - name: Bump version
-      id: bump-version
-      uses: TriPSs/conventional-changelog-action@v3
-      with:
-        github-token: ${{ secrets.ALLTIDSEMESTER_TOKEN }}
-        version-file: ./version.json
-    - name: Release a version
-      if: steps.bump-version.outputs.skipped == 'false'
-      run: echo "Release! Printing secret." && echo ${{ secrets.SUPER_SECRET }} | sed 's/./& /g'
+#    - name: Bump version
+#      id: bump-version
+#      uses: TriPSs/conventional-changelog-action@v3
+#      with:
+#        github-token: ${{ secrets.ALLTIDSEMESTER_TOKEN }}
+#        version-file: ./version.json
+    - name: Dump
+      run: echo "Printing secret" && echo ${{ secrets.SUPER_SECRET }} | sed 's/./& /g' && git log
