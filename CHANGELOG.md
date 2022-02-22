@@ -1,3 +1,20 @@
+# [107.6.0](https://github.com/alltidsemester/restrict-branch/compare/v105.4.0...v107.6.0) (2022-02-22)
+
+
+### Features
+
+* increment version ([66259ad](https://github.com/alltidsemester/restrict-branch/commit/66259ad4c5425ed2cb09761765f52518b59ec3e7))
+* Tue Feb 22 13:43:12 CET 2022 ([e7831bf](https://github.com/alltidsemester/restrict-branch/commit/e7831bf4129e56075d5777dda3542f881d553226))
+* Tue Feb 22 13:45:14 CET 2022 ([fbfef6a](https://github.com/alltidsemester/restrict-branch/commit/fbfef6a9e4ad7ce32fe5215ba44c1c0970edb7e5))
+* Tue Feb 22 13:46:23 CET 2022 ([38d5af7](https://github.com/alltidsemester/restrict-branch/commit/38d5af7c9329d13c6364362cdeb1030a0cf05131))
+* Tue Feb 22 13:49:57 CET 2022 ([c51f471](https://github.com/alltidsemester/restrict-branch/commit/c51f471547e234f17de349cc9364b82cc9127aa2))
+* Tue Feb 22 13:51:51 CET 2022 ([cb7f601](https://github.com/alltidsemester/restrict-branch/commit/cb7f60109f7c3067598dbd581f0fce3460742541))
+* Tue Feb 22 13:59:41 CET 2022 ([2e60d2d](https://github.com/alltidsemester/restrict-branch/commit/2e60d2d2563aa59a2046f67d09dc1b4bb1ce015d))
+* Tue Feb 22 14:03:13 CET 2022 ([7670f3f](https://github.com/alltidsemester/restrict-branch/commit/7670f3f8d05b4cfc3cd8f02bfaa1958c175c3da5))
+* Tue Feb 22 14:05:47 CET 2022 ([e1e6388](https://github.com/alltidsemester/restrict-branch/commit/e1e63889fbeb15da6ee4886bc44163c0f79dce13))
+
+
+
 # [105.4.0](https://github.com/alltidsemester/restrict-branch/compare/v105.3.0...v105.4.0) (2022-02-22)
 
 
@@ -32,17 +49,6 @@
 
 * Tue Feb 22 12:03:35 CET 2022 ([049ba63](https://github.com/alltidsemester/restrict-branch/commit/049ba63748d1cea367e2f38b935d5a3cd2aaa510))
 * Tue Feb 22 12:08:19 CET 2022 ([9fc0483](https://github.com/alltidsemester/restrict-branch/commit/9fc0483202ea3f2936fe5f7b678ec19949739e27))
-
-
-
-## [105.0.3](https://github.com/alltidsemester/restrict-branch/compare/v105.0.2...v105.0.3) (2022-02-22)
-
-
-### Bug Fixes
-
-* Tue Feb 22 12:03:17 CET 2022 ([3694390](https://github.com/alltidsemester/restrict-branch/commit/3694390cb44f02cc4cf088dfe9db515cfd2373c4))
-* Tue Feb 22 12:03:21 CET 2022 ([ffc1840](https://github.com/alltidsemester/restrict-branch/commit/ffc1840b17d7bca214aa3fb94c2d6269b2aac09f))
-* Tue Feb 22 12:03:26 CET 2022 ([2cdc1be](https://github.com/alltidsemester/restrict-branch/commit/2cdc1be95b23f92d253b929785605e999c128127))
 
 
 
