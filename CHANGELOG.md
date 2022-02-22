@@ -1,3 +1,12 @@
+# [105.3.0](https://github.com/alltidsemester/restrict-branch/compare/v105.2.0...v105.3.0) (2022-02-22)
+
+
+### Features
+
+* Tue Feb 22 12:25:08 CET 2022 ([a45ab87](https://github.com/alltidsemester/restrict-branch/commit/a45ab877a50623086c8254a041d3586f37670cab))
+
+
+
 # [105.2.0](https://github.com/alltidsemester/restrict-branch/compare/v105.1.0...v105.2.0) (2022-02-22)
 
 
@@ -37,15 +46,6 @@
 * fixing B ([af47137](https://github.com/alltidsemester/restrict-branch/commit/af47137f21dfd43c4223190ab4eaf1ac09054c80))
 * hey hey hey ([ec98080](https://github.com/alltidsemester/restrict-branch/commit/ec9808024e6a141ad3912bccf496420199926251))
 * hey hey hey ([2774b44](https://github.com/alltidsemester/restrict-branch/commit/2774b44a60156e0d9d6ec74c8509d11783350e88))
-
-
-
-## [105.0.1](https://github.com/alltidsemester/restrict-branch/compare/v105.0.0...v105.0.1) (2022-02-22)
-
-
-### Bug Fixes
-
-* test ([4cc8101](https://github.com/alltidsemester/restrict-branch/commit/4cc81010e9903ca1e48b8bf1c224d7644d088407))
 
 
 
