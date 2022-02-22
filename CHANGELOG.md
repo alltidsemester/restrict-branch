@@ -1,3 +1,12 @@
+## [108.7.1](https://github.com/alltidsemester/restrict-branch/compare/v108.7.0...v108.7.1) (2022-02-22)
+
+
+### Reverts
+
+* Revert "Update version.yml" ([f248f55](https://github.com/alltidsemester/restrict-branch/commit/f248f55e2e90e6446d5dc228eb419e742d7402fc))
+
+
+
 # [108.7.0](https://github.com/alltidsemester/restrict-branch/compare/v105.6.0...v108.7.0) (2022-02-22)
 
 
@@ -35,15 +44,6 @@
 ### Features
 
 * Tue Feb 22 12:25:08 CET 2022 ([a45ab87](https://github.com/alltidsemester/restrict-branch/commit/a45ab877a50623086c8254a041d3586f37670cab))
-
-
-
-# [105.2.0](https://github.com/alltidsemester/restrict-branch/compare/v105.1.0...v105.2.0) (2022-02-22)
-
-
-### Features
-
-* Tue Feb 22 12:12:58 CET 2022 ([8c23da2](https://github.com/alltidsemester/restrict-branch/commit/8c23da29bf5e4c193bd3cc22a711d5f9256f9641))
 
 
 
