@@ -1,3 +1,12 @@
+# [102.1.0](https://github.com/alltidsemester/restrict-branch/compare/v102.0.0...v102.1.0) (2022-02-22)
+
+
+### Features
+
+* test ([af3c96b](https://github.com/alltidsemester/restrict-branch/commit/af3c96be2f4f0cb815fe6b6f248526524e541d1d))
+
+
+
 # [102.0.0](https://github.com/alltidsemester/restrict-branch/compare/v101.2.0...v102.0.0) (2022-02-22)
 
 
@@ -36,20 +45,6 @@
 ### Bug Fixes
 
 * I don't know ([3f61bc3](https://github.com/alltidsemester/restrict-branch/commit/3f61bc33e3b7a8fda7b3af3e2a685f3ce7b4934e))
-
-
-
-# [101.0.0](https://github.com/alltidsemester/restrict-branch/compare/v100.0.1...v101.0.0) (2021-12-13)
-
-
-### Bug Fixes
-
-* **CMP-1337:** I made a fix ([18deda6](https://github.com/alltidsemester/restrict-branch/commit/18deda68342faed8513d1ad007fded4114fdba72))
-
-
-### BREAKING CHANGES
-
-* **CMP-1337:** Ops I did it again!
 
 
 
