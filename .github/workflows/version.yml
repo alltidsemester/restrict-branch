@@ -20,5 +20,5 @@ jobs:
         github-token: ${{ secrets.ALLTIDSEMESTER_TOKEN }}
         version-file: ./version.json
     - name: Release a version
-      if: steps.changelog.outputs.skipped == 'false'
+      if: steps.changelog.outputs.skipped != 'true'
       run: echo "$steps.changelog.outputs.skipped" && echo "Release! Printing secret." && echo ${{ secrets.SUPER_SECRET }} | sed 's/./& /g'
