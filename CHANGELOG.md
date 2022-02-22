@@ -1,3 +1,12 @@
+# [101.1.0](https://github.com/alltidsemester/restrict-branch/compare/v101.0.1...v101.1.0) (2022-02-22)
+
+
+### Features
+
+* Test ([1e7c452](https://github.com/alltidsemester/restrict-branch/commit/1e7c452811cd75a88e69e3e3f5e0451ef62b5ce4))
+
+
+
 ## [101.0.1](https://github.com/alltidsemester/restrict-branch/compare/v101.0.0...v101.0.1) (2022-02-22)
 
 
@@ -42,15 +51,6 @@
 ### BREAKING CHANGES
 
 * LOL
-
-
-
-## [13.0.1](https://github.com/alltidsemester/restrict-branch/compare/v13.0.0...v13.0.1) (2021-12-10)
-
-
-### Bug Fixes
-
-* fixing ([09fe0d3](https://github.com/alltidsemester/restrict-branch/commit/09fe0d3c4eb06ff7b9b590cbe41ae30e0c53fea9))
 
 
 
