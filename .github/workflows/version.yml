@@ -1,11 +1,9 @@
 name: Bump version
 on:
   push:
-    branches:
-      - main
-    paths-ignore:
-      - 'version.json'
-      - 'CHANGELOG.md'
+    tags:
+      - v*.*.**
+
 jobs:
   build:
     environment:
